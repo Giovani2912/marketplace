@@ -13,7 +13,7 @@ import { PayloadRequest } from 'payload/types'
 import { parse } from 'url'
 
 const app = express()
-const PORT = Number(process.env.PORT) || 3000
+const PORT = Number(process.env.PORT) || 2020
 
 const createContext = ({
   req,
