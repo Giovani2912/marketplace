@@ -1,20 +1,38 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# - Fullstack E-Commerce Marketplace.
 
-Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
+Desenvolvido com Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
 ## Features
 
-- 🛠️ Complete marketplace built from scratch in Next.js 14
-- 💻 Beautiful landing page & product pages included
-- 🎨 Custom artwork included
-- 💳 Full admin dashboard
-- 🛍️ Users can purchase and sell their own products
-- 🛒 Locally persisted shopping cart
-- 🔑 Authentication using Payload
-- 🖥️ Learn how to self-host Next.js
-- 🌟 Clean, modern UI using shadcn-ui
-- ✉️ Beautiful emails for signing up and after purchase
-- ✅ Admins can verify products to ensure high quality
-- ⌨️ 100% written in TypeScript
-- 🎁 ...much more
+- 🛠️ Marketplace completo construído com Next.js 14
+- 💻 Incrível landing Page, listagem de produtos e detalhes de um produto.
+- 💳 Dashboard completo para o admin.
+- 🛒 Persistências de produtos no carrinho de compras
+- 🔑 Autenticação usando Payload
+- 🌟 Moderna UI usando shadcn-ui.
+- ✉️ Verificação por email para cadastro de conta.
+- ✅ Admins podem verificar os produtos para serem listados.
+- ⌨️ 100% esctito com TypeScript
+
+## Apresentação
+
+### Landing Page
+<img src="public/readme-imgs/landing.png" alt="Landing Page" width="600">
+
+### Login e cadastro de usuários
+<img src="public/readme-imgs/signin.png" alt="sign in" width="300">
+<img src="public/readme-imgs/signup.png" alt="sign up" width="300">
+
+### Detalhes de um produto
+<img src="public/readme-imgs/singleproduct.png" alt="Single product Page" width="600">
+
+### Carrinho e Checkout
+<img src="public/readme-imgs/cart.png" alt="cart" width="300">
+<img src="public/readme-imgs/checkout.png" alt="Chcekout Page" width="300">
+
+---
+
+### Payload CMS 
+<img src="public/readme-imgs/collections.png" alt="cart" width="300">
+<img src="public/readme-imgs/formproduct.png" alt="Chcekout Page" width="300">
 
